@@ -1,0 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: linear-gradient(to bottom right, rgb(111, 234, 111), rgb(164, 169, 163));
+  height: 100vh;
+}/*# sourceMappingURL=index.css.map */
